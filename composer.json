@@ -1,0 +1,28 @@
+{
+    "name": "filterdatefromto/yii2-datetofrominfilter",
+    "description": "This extention after filter",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","datetofrominfilter"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luchkovskyi",
+            "email": "luca131986@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "*",
+        "kartik-v/yii2-widget-datetimepicker": "*",
+        "kartik-v/yii2-widget-datepicker": "*"
+    },
+    "extra": {
+        "bootstrap": "klisl\\mytest\\Bootstrap"
+    },
+    "autoload": {
+        "psr-4": {
+            "filterdatefromto\\datetofrominfilter\\": "src"
+        }
+    }
+}
