@@ -16,7 +16,7 @@
         "yiisoft/yii2": "*",
         "kartik-v/yii2-widget-datetimepicker": "*",
         "kartik-v/yii2-widget-datepicker": "*",
-        "kartik-v/yii2-date-range": "dev-master"
+        "kartik-v/yii2-date-range": "*"
     },
     "extra": {
         "bootstrap": "klisl\\mytest\\Bootstrap"
