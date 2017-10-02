@@ -19,7 +19,7 @@
         "kartik-v/yii2-date-range": "*"
     },
     "extra": {
-        "bootstrap": "klisl\\mytest\\Bootstrap"
+        "bootstrap": "filterdatefromto\\datetofrominfilter\\Bootstrap"
     },
     "autoload": {
         "psr-4": {
