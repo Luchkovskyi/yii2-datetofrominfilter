@@ -20,7 +20,8 @@
     },
     "autoload": {
         "psr-4": {
-            "filterdatefromto\\datetofrominfilter\\": "src"
+            "filterdatefromto\\datetofrominfilter\\": "filterdatefromto"
         }
     }
+
 }
